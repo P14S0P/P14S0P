@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Front End Web Developer.
 - 🌱 I’m currently learning ...Anything i can learn.
 - 💞️ I’m looking to collaborate on ...Any platform.
-- 📫 How to reach me ... you can contact with me right here (P_1_4_S_O_P@proton.me).
+- 📫 How to reach me ... you can contact with me right here (P_1_4_S_0_P@proton.me).
 
 <!---
 P14S0P/P14S0P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
