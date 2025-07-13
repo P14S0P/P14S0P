@@ -1,4 +1,4 @@
-# Hey, I'm p1as0p! 👋 Welcome to my command center.
+# Hey, I'm PIASOP! 👋 Welcome to my command center.
 
 I'm a digital creator passionate about the intersection of code, design, and entertainment. If you can imagine it, I'm probably trying to code it, design it, or stream it.
 
