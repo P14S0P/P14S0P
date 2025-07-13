@@ -2,10 +2,6 @@
 
 I'm a digital creator passionate about the intersection of code, design, and entertainment. If you can imagine it, I'm probably trying to code it, design it, or stream it.
 
-<a href="https://twitch.tv/p1as0p" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-p1as0p-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-</a>
-
 ---
 
 ### 👾 What I Do
@@ -25,7 +21,10 @@ I combine my skills to bring unique projects to life. My creative stack includes
 
 ### 🔴 Join the community on Twitch!
 
-Most of this magic happens live. On [**twitch.tv/p1as0p**](https://twitch.tv/p1as0p), you'll find me:
+Most of this magic happens live, you'll find me here: <a href="https://twitch.tv/p1as0p" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-p1as0p-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
+</a>
 * Playing games and sharing moments with an incredible community.
 
 **Stop by and say hello, I'd love to meet you!**
+
