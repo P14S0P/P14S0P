@@ -1,31 +1,27 @@
-# ¡Hola, soy p1as0p! 👋 Bienvenido a mi centro de operaciones.
+Hey, I'm p1as0p! 👋 Welcome to my command center.
+I'm a digital creator passionate about the intersection of code, design, and entertainment. If you can imagine it, I'm probably trying to code it, design it, or stream it.
 
-Soy un creador digital apasionado por la intersección entre el código, el diseño y el entretenimiento. Si lo puedes imaginar, probablemente esté intentando programarlo, diseñarlo o stremearlo.
 
-<a href="https://twitch.tv/p1as0p" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-p1as0p-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-</a>
+https://img.shields.io/badge/Twitch-p1as0p-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
 
----
+👾 What I Do
+I combine my skills to bring unique projects to life. My creative stack includes:
 
-### 👾 ¿Qué hago?
+⛏️ Minecraft Modding: I take the world of blocks to another dimension by creating mods that expand gameplay, add new mechanics, and introduce new challenges.
 
-Combino mis habilidades para dar vida a proyectos únicos. Mi stack creativo incluye:
+Java | Forge
 
-* **⛏️ Minecraft Modding:** Llevo el mundo de los bloques a otra dimensión creando mods que expanden la jugabilidad, añaden nuevas mecánicas y desafíos.
-    * `Java` | `Forge`
+💻 Front-End Development: I build interactive, clean, and visually appealing web interfaces. I love watching a design come to life in the browser.
 
-* **💻 Desarrollo Front-End:** Construyo interfaces web interactivas, limpias y visualmente atractivas. Me encanta ver cómo un diseño cobra vida en el navegador.
-    * `HTML` | `CSS` | `JavaScript` | `React` | `Vue.js`
+HTML | CSS | JavaScript | React | Vue.js
 
-* **🎨 Diseño y Edición Multimedia:** Desde la creación de un logo hasta la postproducción de un video, me encargo de que el contenido no solo funcione bien, sino que también luzca increíble.
-    * `Photoshop` | `Canva` | `Premiere Pro` | `Capcut`
+🎨 Multimedia Design & Editing: From creating a logo to post-producing a video, I make sure that content not only works well but also looks amazing.
 
----
+Photoshop | Canva | Premiere Pro | Capcut
 
-### 🔴 ¡Únete a la comunidad en Twitch!
+🔴 Join the community on Twitch!
+Most of this magic happens live. On twitch.tv/p1as0p, you'll find me:
 
-La mayor parte de esta magia sucede en vivo. En [**twitch.tv/p1as0p**](https://twitch.tv/p1as0p) me encontrarás:
-* Jugando y compartiendo con una comunidad increíble.
+Playing games and sharing moments with an incredible community.
 
-**¡Pásate a saludar, me encantaría conocerte!**
+Stop by and say hello, I'd love to meet you!
