@@ -15,7 +15,7 @@ I combine my skills to bring unique projects to life. My creative stack includes
     * `HTML` | `CSS` | `JavaScript` | `React` | `Vue.js`
 
 * **🎨 Multimedia Design & Editing:** From creating a logo to post-producing a video, I make sure that content not only works well but also looks amazing.
-    * `Photoshop` | `Canva` | `Premiere Pro` | `Capcut`
+    * `Photoshop` | `Canva` | `Premiere Pro` | `Capcut` |  `Figma`
 
 ---
 
