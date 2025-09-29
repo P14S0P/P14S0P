@@ -32,5 +32,5 @@ Most of this magic happens live, you'll find me here: <a href="https://twitch.tv
 
 ### 🟢 My Minecraft Server
 
-[Enter the Realm of P1AS0P: Pingaland](https://p14s0p.github.io/P1AS0P.github.io)  
+[PINGALAND](https://p14s0p.github.io/P1AS0P.github.io)  
 A complete overhaul that redefines your Minecraft adventure. Discover a universe blending magic, technology, and untold dangers where you can forge your own path.
