@@ -1,4 +1,4 @@
-# Hey, I'm P1AS0P! 👋 Welcome to my command center.
+# Hey, I'm P1AS0P! 👋 Welcome to my command center. 
 
 I'm a digital creator passionate about the intersection of code, design, and entertainment. If you can imagine it, I'm probably trying to code it, design it, or stream it.
 
@@ -28,3 +28,9 @@ Most of this magic happens live, you'll find me here: <a href="https://twitch.tv
 
 **Stop by and say hello, I'd love to meet you!**
 
+---
+
+### 🟢 My Minecraft Server
+
+Check out my Minecraft server here: <https://p14s0p.github.io/P1AS0P.github.io>  
+A complete overhaul that redefines your Minecraft adventure. Discover a universe blending magic, technology, and untold dangers where you can forge your own path.
