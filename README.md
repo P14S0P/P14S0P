@@ -12,7 +12,7 @@ I combine my skills to bring unique projects to life. My creative stack includes
     * `Java` | `Forge`
 
 * **💻 Front-End Development:** I build interactive, clean, and visually appealing web interfaces. I love watching a design come to life in the browser.
-    * `HTML` | `CSS` | `JavaScript` | `React` | `Vue.js`
+    * `HTML` | `CSS` | `JavaScript` | `React` 
 
 * **🎨 Multimedia Design & Editing:** From creating a logo to post-producing a video, I make sure that content not only works well but also looks amazing.
     * `Photoshop` | `Canva` | `Premiere Pro` | `Capcut` |  `Figma`
