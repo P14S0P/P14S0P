@@ -30,10 +30,10 @@ Most of this magic happens live, you'll find me here: <a href="https://twitch.tv
 
 ---
 
-### 🟢 My Minecraft Server
+### 🟢 My Minecraft Modpack
 
 [PINGALAND](https://p14s0p.github.io/P1AS0P.github.io)  
 **Name:** Pingaland  
-**IP:** pingaland.kinetichosting.gg  
+https://www.curseforge.com/minecraft/modpacks/pingaland
 
 A complete overhaul that redefines your Minecraft adventure. Discover a universe blending magic, technology, and untold dangers where you can forge your own path.
